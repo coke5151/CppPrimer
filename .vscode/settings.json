@@ -1,3 +1,4 @@
 {
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "C_Cpp.default.compilerPath": "/usr/bin/clang"
 }
