@@ -5,7 +5,7 @@
 
 # 我的環境
 
-- OS: Windows 11 下的 WSL2 的 ubunt 22.04LTS
+- OS: Windows 11 下的 WSL2 的 ubuntu 22.04 LTS
 - Editor: VSCode
 - Compiler: clang
 - c++ version: c++23 (command: `clang++ file.cpp -std=c++23`)
