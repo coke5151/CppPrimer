@@ -9,3 +9,7 @@
 - Editor: VSCode
 - Compiler: clang
 - c++ version: c++23 (command: `clang++ file.cpp -std=c++23`)
+
+# 指引
+
+在這個 Repo 中，若有一些重點筆記整理，我會放在 `Ch1_Notes.md` 這類的檔案中。若是書中的習題，我會把解答放在 `Ch1`、`Ch2` 這類的資料夾中，以書中的編號命名。
